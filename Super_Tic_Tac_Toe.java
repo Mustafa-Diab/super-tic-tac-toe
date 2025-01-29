@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Super_Tic_Tac_Toe 
 {
-	// Score tracking and game state variables
+    // Score tracking and game state variables
     public static int playerXWin = 0, playerOWin = 0, tie = 0, saveBoardWin = 0, boardChoice = 0, positionChoice = 0;
     public static boolean gameEnd = false;    
     public static int[] saveWinBoard = new int[9]; // Tracks which boards are won
