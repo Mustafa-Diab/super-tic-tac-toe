@@ -58,4 +58,4 @@ Super Tic-Tac-Toe is an exciting twist on the classic Tic-Tac-Toe game, adding a
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/super-tic-tac-toe.git  
+   git clone https://github.com/Mustafa-Diab/super-tic-tac-toe.git
